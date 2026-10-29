@@ -1,8 +1,6 @@
-# NETWORKWALKS-B084I-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE
+  # 🔐 Cybersecurity Lab Environment Setup
 
-# 🔐 Cybersecurity Lab Environment Setup
-
-**Building a Virtual Cybersecurity Lab Using VirtualBox and Kali Linux**
+  **Building a Virtual Cybersecurity Lab Using VirtualBox and Kali Linux**
 
 ---
 
